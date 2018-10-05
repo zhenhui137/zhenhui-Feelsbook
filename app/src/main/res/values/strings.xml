@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">zhenhui-FeelsBook</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="love">Love</string>
+    <string name="joy">Joy</string>
+    <string name="surprise">Surprise</string>
+    <string name="anger">Anger</string>
+    <string name="sadness">Sadness</string>
+    <string name="fear">Fear</string>
+    <string name="select">Select one of the emotions</string>
+    <string name="history">History emotions</string>
+</resources>
