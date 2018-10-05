@@ -1,3 +1,5 @@
+/* This Emotion calsee is modified based on the tweet class in lonelyTweeter */
+
 package com.example.zhenhui_feelsbook;
 
 import java.sql.Time;

@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
         adapter = new ArrayAdapter<Emotion>(this, R.layout.list_item, emotions);
         oldEmotionList.setAdapter(adapter);
     }
-
+/* loadFromFile and saveInFile are based on methods with same name in longTweeter*/
     private void loadFromFile() {
         try {
             FileInputStream fis = openFileInput(FILENAME);
